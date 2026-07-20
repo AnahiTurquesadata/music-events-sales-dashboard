@@ -1,4 +1,4 @@
-# 🎵 Music Events Sales Dashboard
+# 🎵 Music Events Sales
 
 ## Project Overview
 
